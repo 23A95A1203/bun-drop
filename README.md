@@ -31,7 +31,7 @@ DEMO: Take a look at our delicious menu with various food options:
 ![Menu 1](https://raw.githubusercontent.com/23A95A1203/react-food-app/main/public/assets/readme/menu-01.png)  
 
 When you hover over any menu card, the 'Add to Cart' button smoothly slides up from the bottom:
-![Menu 2](https://raw.githubusercontent.com/23A95A1203/react-food-app/main/public/assets/readme/menu-02png)
+![Menu 2](https://raw.githubusercontent.com/23A95A1203/react-food-app/main/public/assets/readme/menu-02.png)
 
 ### Shop Section
 DEMO: Explore our online store and mobile app where you can easily place your order:
