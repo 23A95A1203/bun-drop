@@ -31,7 +31,7 @@ DEMO: Take a look at our delicious menu with various food options:
 ![Menu 1](https://raw.githubusercontent.com/23A95A1203/react-food-app/main/public/assets/readme/menu-01.png)  
 
 When you hover over any menu card, the 'Add to Cart' button smoothly slides up from the bottom:
-![Menu 2](https://raw.githubusercontent.com/23A95A1203/react-food-app/main/public/assets/readme/menu-012png)
+![Menu 2](https://raw.githubusercontent.com/23A95A1203/react-food-app/main/public/assets/readme/menu-02png)
 
 ### Shop Section
 DEMO: Explore our online store and mobile app where you can easily place your order:
@@ -161,9 +161,9 @@ The project is deployed on **Vercel** for fast and reliable hosting.
 
 ## 📜 Meta Tags (SEO)
 ```html
-<meta name="description" content="Enjoy fresh, delicious, and affordable meals with Tasty Burger by Mahmud Alam. Order online for fast delivery and delicious food!">
-<meta name="keywords" content="Mahmud Alam, Tasty Burger, Pocket Kitchen, food delivery, delicious meals, online food order, fast delivery, affordable food">
-<meta name="author" content="Mahmud Alam">
+<meta name="description" content="Enjoy fresh, delicious, and affordable meals with Tasty Burger by Katraju Raviteja. Order online for fast delivery and delicious food!">
+<meta name="keywords" content="Katraju Raviteja, Tasty Burger, Pocket Kitchen, food delivery, delicious meals, online food order, fast delivery, affordable food">
+<meta name="author" content="Katraju Raviteja">
 <meta name="language" content="English">
 <meta name="robots" content="index, follow">
 ```
